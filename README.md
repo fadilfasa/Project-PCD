@@ -6,23 +6,23 @@
     <th>NIM</th>
     <tr>
         <td>Friesky Astria Dewi Lestari</td>
-        <td>F1DO22045</td>
+        <td>F1D022045</td>
     <tr/>
     <tr>
         <td>Muhammad Eysar Assazily</td>
-        <td>F1DO22070</td>
+        <td>F1D022070</td>
     <tr/>
     <tr>
         <td>Aisyah Altara Medya</td>
-        <td>F1DO22107</td>
+        <td>F1D022107</td>
     <tr/>
     <tr>
         <td>Refa Fadila Fasa</td>
-        <td>F1DO22155</td>
+        <td>F1D022155</td>
     <tr/>
     <tr>
         <td>Risfanda Audiarrahman Charisma</td>
-        <td>F1DO22157</td>
+        <td>F1D022157</td>
     <tr/>
 </table>
 
